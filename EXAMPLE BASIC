@@ -1,0 +1,6 @@
+<script>  
+document.write("Hello JavaScript by JavaScript");  
+</script>  
+
+
+//This is simple example
