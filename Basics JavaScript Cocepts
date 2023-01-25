@@ -1,0 +1,16 @@
+⭐ console.log("Write something here"); //For Printing
+
+⭐ let //used to declare variable at block level
+     ex... let a = 5;
+          
+          NOTE - It is not compulsory to give semicolon at the end in javascript codes.
+                 It can't be redeclared but can be modified.
+          
+  ⭐ var //used to declare variable globally.
+        ex... var a = 5;
+        
+         NOTE - It can be redeclared .
+               
+ ⭐const //neither can be redclared nor modified.
+ 
+  
