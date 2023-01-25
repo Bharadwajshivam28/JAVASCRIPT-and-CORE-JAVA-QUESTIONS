@@ -13,4 +13,23 @@
                
  ⭐const //neither can be redclared nor modified.
  
+ 
+ 
+ 
+ CODE -
+ 
+ console.log("Hello World") //Prints Hello World
+
+let a = 5; // variable a stores 5
+let b = 6; // variable b stores 6
+console.log(a + b); // sum of a and b
+
+let a = 5 ; //a is already declared so we can't declare it again
+
+const c = 50; //This value can't be changed as it is constant
+c = 51; //Will throw error
+
+var d = 65; //d has value of 65 and it can be modified aslo can redeclared
+var d = 599; //successful line of code will not throw any error
+ 
   
