@@ -1,0 +1,33 @@
+The Java Development Kit (JDK) is a cross-platformed software development environment that offers a collection of tools and libraries necessary for developing Java-based software applications and applets. It is a core package used in Java, along with the JVM (Java Virtual Machine) and the JRE (Java Runtime Environment). 
+
+Beginners often get confused with JRE and JDK, if you are only interested in running Java programs on your machine then you can easily do it using Java Runtime Environment. However, if you would like to develop a Java-based software application then along with JRE you may need some additional necessary tools, which is called JDK.
+
+JDK=JRE+Development Tools
+
+
+JAVA Development Kit (JDK)
+
+ 
+The Java Development Kit  is an implementation of  one of the Java Platform:
+Standard Edition (Java SE),
+Java Enterprise Edition (Java EE),
+Micro Edition (Java ME),
+Contents of JDK
+The JDK has a private Java Virtual Machine (JVM) and a few other resources necessary for the development of a Java Application. 
+
+
+JDK contains:
+
+Java Runtime Environment (JRE),
+An interpreter/loader (Java),
+A compiler (javac),
+An archiver (jar) and many more.
+The  Java Runtime Environment in JDK is usually called Private Runtime because it is separated from the regular JRE and has extra content. The Private Runtime in JDK contains a JVM and all the class libraries present in the production environment, as well as additional libraries useful to developers, e.g, internationalization libraries and the IDL libraries.
+
+Most Popular JDKs:
+Oracle JDK: the most popular JDK and the main distributor of Java11,
+OpenJDK: Ready for use: JDK 15, JDK 14, and JMC,
+Azul Systems Zing: efficient and low latency JDK for Linux os,
+Azul Systems: based Zulu brand for Linux, Windows, Mac OS X,
+IBM J9 JDK: for AIX, Linux, Windows, and many other OS,
+Amazon Corretto: the newest option with the no-cost build of OpenJDK and long-term support.
